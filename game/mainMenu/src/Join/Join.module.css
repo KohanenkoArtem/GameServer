@@ -1,0 +1,6 @@
+.Code{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    flex-direction: column;
+}

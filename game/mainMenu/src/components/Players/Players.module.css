@@ -1,0 +1,9 @@
+.Players{
+    display: flex;
+    justify-content: space-around;
+}
+.PlayerName{
+    color: black;
+    font-weight: 700;
+    margin-top: 20px;
+}

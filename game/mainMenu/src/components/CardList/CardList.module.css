@@ -1,0 +1,12 @@
+.List{
+    display: flex;
+    flex-direction: column;
+}
+.Card{
+    border: solid black;
+    text-align: center;
+    vertical-align: middle;
+    margin: 5px;
+    padding: 5px;
+    width: 150px;
+}

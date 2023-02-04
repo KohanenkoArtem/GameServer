@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cousine:wght@700&display=swap');
+
+.Title{
+    text-align: center;
+    font-family: 'Cousine', monospace;
+    font-weight: 700;
+    color: white;
+    font-size: 96px;
+    -webkit-text-stroke: 2px black;
+}
+.Buttons{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    justify-content: space-between;
+}
+.test{
+    margin: 20px;
+    text-align: center;
+}

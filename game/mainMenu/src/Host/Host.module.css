@@ -1,0 +1,9 @@
+.Code{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.BigNum{
+    font-size: 36px;
+    margin-top: 5px;
+}

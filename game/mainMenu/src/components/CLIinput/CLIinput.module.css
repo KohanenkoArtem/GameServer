@@ -1,0 +1,18 @@
+.Line{
+    font-size: 20px;
+}
+.Input{
+    font-size: 20px;
+    background-color: transparent;
+    color: black;
+    border-color: transparent;
+    outline:none;
+    width: 88px;
+}
+.Input:focus{
+    border: 0px;
+    border-color: transparent;
+}
+.Input::placeholder{
+    color: black;
+}
